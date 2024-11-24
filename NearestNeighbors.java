@@ -1,4 +1,3 @@
-//Programmed by Frederick Andrews, 300247972
 
 import java.util.ArrayList;
 import java.util.List;

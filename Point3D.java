@@ -1,4 +1,3 @@
-//Programmed by Frederick Andrews, 300247972
 
 import static java.lang.Math.sqrt;
 
